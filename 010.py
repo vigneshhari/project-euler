@@ -9,6 +9,7 @@ from time import time
 #primes by dividing odd numbers with numbers to find prime or not
 #'''
 t1 = time()
+
 sum = 2
 l = 2000000
 i = 3
