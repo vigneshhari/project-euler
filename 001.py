@@ -36,3 +36,5 @@ if a>b:
     print ('b is faster')
 else:
     print ('a is faster')
+
+# End of code
